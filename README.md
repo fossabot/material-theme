@@ -14,6 +14,7 @@ This theme brings the [Material Design](http://www.google.com/design/) visual la
 ## Screenshots
 
 ![image](http://equinusocio.github.io/material-theme/assets/materialtheme.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fmaterial-theme.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fmaterial-theme?ref=badge_shield)
 
 ![image](http://equinusocio.github.io/material-theme/assets/materialtheme2.png)
 
@@ -82,3 +83,6 @@ You can [download](https://dribbble.com/shots/2104476-Material-Theme-for-Sublime
 ## Thanks
 - [@Riccardo-Zanutta](https://github.com/Riccardo-Zanutta) for the windows beta test, site development and support.
 - [@irazasyed](https://github.com/irazasyed)
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fmaterial-theme.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fmaterial-theme?ref=badge_large)
